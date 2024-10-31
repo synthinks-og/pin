@@ -18,7 +18,7 @@ An automated bot for managing PinAI accounts, handling daily tasks, and automati
 - npm (Node Package Manager)
 - A Telegram account
 
-## 🛠 Installation
+## Installation
 
 1. Clone this repository:
 
